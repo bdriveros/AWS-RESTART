@@ -1,0 +1,16 @@
+vin,make,model,year,range,topSpeed,zeroSixty,mileage
+TMX20122,AnyCompany Motors, Coupe, 2012, 335, 155, 4.1, 50000
+TM320163,AnyCompany Motors, Sedan, 2016, 240, 140, 5.2, 20000
+TMX20121,AnyCompany Motors, SUV, 2012, 295, 155, 4.7, 100000
+TMX20204,AnyCompany Motors, Truck, 2020, 300, 155, 3.5, 0
+TM320195,AnyCompany Motors, Hatchback, 2019, 210, 130, 6.5, 45000
+TMX20216,AnyCompany Motors, SUV, 2021, 315, 150, 4.4, 15000
+TM420237,AnyCompany Motors, Sedan, 2023, 350, 160, 3.1, 5000
+TMX20188,AnyCompany Motors, Convertible, 2018, 250, 145, 4.8, 60000
+TM520229,AnyCompany Motors, Coupe, 2022, 400, 180, 2.9, 12000
+TMX20150,AnyCompany Motors, Truck, 2015, 220, 130, 5.8, 120000
+TM320171,AnyCompany Motors, Sedan, 2017, 260, 145, 4.9, 85000
+TMX20242,AnyCompany Motors, Coupe, 2024, 420, 190, 2.5, 500
+TM420203,AnyCompany Motors, Wagon, 2020, 280, 140, 5.5, 32000
+TMX20144,AnyCompany Motors, SUV, 2014, 230, 135, 6.1, 145000
+TM520215,AnyCompany Motors, Truck, 2021, 330, 150, 4.0, 28000

@@ -1,0 +1,3 @@
+# Ignorar una carpeta y todo su contenido
+aws/
+awscliv2.zip
